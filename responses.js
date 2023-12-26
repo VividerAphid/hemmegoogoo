@@ -17,5 +17,8 @@ var responses = {
 var invalidInpResponses = [
     "I have no idea what you are even saying.",
     "Try talking.",
-    "What?"
+    "What?",
+    "Even my great Wisdom couldn't decipher that.",
+    "Are you sure you passed English class?",
+    "Huh."
 ];
